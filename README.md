@@ -31,14 +31,14 @@
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/M9zJp8y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uXV9J7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Enhancing our service offerings by formalizing and introducing a brand-new service level agreement.
 <br />
 
 <p>
-<img src="https://i.imgur.com/prqxr6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wil7iGz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Establishing a new department within our organization. This strategic expansion aims to enhance our capabilities.
@@ -46,7 +46,7 @@ Establishing a new department within our organization. This strategic expansion 
 <br />
 
 <p>
-<img src="https://i.imgur.com/VGMK9aq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vf6ST75.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I'm conferring authority upon a specific representative, empowering them to act on behalf of our organization within defined parameters.
